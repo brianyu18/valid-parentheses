@@ -22,3 +22,5 @@ var isValid = function(s) {
         return true
     }
 };
+
+//need to return is function false/true
